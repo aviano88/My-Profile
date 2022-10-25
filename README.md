@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aviano88
 - 👀 I’m interested in Machine Learning, Photography, and Hiking
-- 🌱 I’m currently learning python and C++
+- 🌱 I’m currently learning python, Javascript, and C++
 - 📫 you can reach me by contacting aviano88@gmail.com
 
 <!---
