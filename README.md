@@ -2,7 +2,7 @@
 - 👀 I’m interested in IoT, Machine Learning, Photography, and Hiking
 - 🌱 I’m currently learning python, Javascript, and C++
 - 📫 you can reach me by contacting aviano88@gmail.com
-- 
+
 *or in bahasa indonesia.
 
 # Halo semua! 
