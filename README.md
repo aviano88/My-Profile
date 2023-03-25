@@ -12,7 +12,7 @@ Perkenalkan nama saya **Aviano Muhamad Dzikri**.\
 Saya seorang **mahasiswa tingkat akhir** di [UGM](https://dcse.fmipa.ugm.ac.id/site/id/program-studi-elektronika-dan-instrumentasi).\
 
 
-Jika kamu tertarik untuk berkenalan denganku, silakan buka [Linktree](linktr.ee/aviano88)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan buka [Linktree](https://linktr.ee/aviano88?utm_source=linktree_admin_share)ku ya.
 
 <!---
 aviano88/aviano88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
