@@ -9,7 +9,7 @@
 
 Perkenalkan nama saya **Aviano Muhamad Dzikri**.\
 
-Saya seorang **Mahasiswa tingkat akhir** di [UGM](https://dcse.fmipa.ugm.ac.id/site/id/program-studi-elektronika-dan-instrumentasi).\
+Saya seorang **mahasiswa tingkat akhir** di [UGM](https://dcse.fmipa.ugm.ac.id/site/id/program-studi-elektronika-dan-instrumentasi).\
 
 
 Jika kamu tertarik untuk berkenalan denganku, silakan buka [Linktree](linktr.ee/aviano88)ku ya.
