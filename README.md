@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aviano88
-- 👀 I’m interested in IoT, Machine Learning, Photography, and Hiking
-- 🌱 currently learning python, Javascript, and C++
+- 👀 I’m interested in IoT, Machine Learning, Cloud Computing, and Web Development
+- 🌱 currently learning python, HTML, CSS, Javascript, and C++
 - 📫 you can reach me by contacting aviano88@gmail.com
 
 *or in bahasa indonesia.
